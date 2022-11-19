@@ -10,10 +10,8 @@ You can view the example deployed on Vercel:
 
 ## Screens
 
-![Home screen](public/screens/01.jpg)
-![Explore screen](public/screens/02.jpg)
-![Basic flow](public/screens/05.mp4)
-![Message flow](public/screens/06.mp4)
+![Basic flow](public/screens/05.gif)
+![Message flow](public/screens/06.gif)
 
 ## Technology stack:
 
